@@ -1,0 +1,80 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body{
+  margin: 48px;
+}
+
+h1{
+  font-size: 48px;
+}
+
+h2{
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+h5{
+    font-size: 24px;
+    color: grey;
+        display: inline;
+
+}
+
+ .container{
+  width: 90%;
+  margin: 60px;
+  text-align-last: center;
+  color: black;
+ }
+
+  .container h1{
+ }
+
+ p {
+  font-size: 32px;
+   color: black;
+ }
+
+ .return {
+ }
+
+.user.question {
+      box-shadow: -8px 0px #f7f7f7;
+ }
+ #question {
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+ }
+
+#button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 0px 32px 32px 0px;
+ }
+
+ #button:hover {
+  background-color: lightgreen; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 0px 32px 32px 0px;
+ }
+
+ .coach {
+  background: #FFFEE0;
+  box-shadow: -8px 0px #f7f7f7;
+ }
+
+ a {
+    text-decoration: none;
+ }
